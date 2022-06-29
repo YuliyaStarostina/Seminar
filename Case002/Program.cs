@@ -11,7 +11,7 @@ switch (day)
     case 5: Console.WriteLine("Пятница"); break;
     case 6: Console.WriteLine("Суббота"); break;
     case 7: Console.WriteLine("Воскресенье"); break;
-    
+    default: Console.WriteLine("Неверный ввод"); break;
 
 
 }
