@@ -1,5 +1,5 @@
-﻿int numberA = 5;
-int numberB = 25;
+﻿int numberA = 9;
+int numberB = -3;
 
 if (numberB == numberA * numberA)
 {

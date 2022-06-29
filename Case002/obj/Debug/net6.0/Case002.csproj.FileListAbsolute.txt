@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Home\Case002\bin\Debug\net6.0\Case002.exe
+C:\Users\Asus\Desktop\Home\Case002\bin\Debug\net6.0\Case002.deps.json
+C:\Users\Asus\Desktop\Home\Case002\bin\Debug\net6.0\Case002.runtimeconfig.json
+C:\Users\Asus\Desktop\Home\Case002\bin\Debug\net6.0\Case002.dll
+C:\Users\Asus\Desktop\Home\Case002\bin\Debug\net6.0\Case002.pdb
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.dll
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\refint\Case002.dll
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.pdb
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\Case002.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Home\Case002\obj\Debug\net6.0\ref\Case002.dll
