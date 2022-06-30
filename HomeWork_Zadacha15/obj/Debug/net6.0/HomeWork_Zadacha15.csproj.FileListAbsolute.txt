@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\bin\Debug\net6.0\HomeWork_Zadacha15.exe
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\bin\Debug\net6.0\HomeWork_Zadacha15.deps.json
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\bin\Debug\net6.0\HomeWork_Zadacha15.runtimeconfig.json
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\bin\Debug\net6.0\HomeWork_Zadacha15.dll
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\bin\Debug\net6.0\HomeWork_Zadacha15.pdb
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.dll
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\refint\HomeWork_Zadacha15.dll
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.pdb
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\HomeWork_Zadacha15.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Home\HomeWork_Zadacha15\obj\Debug\net6.0\ref\HomeWork_Zadacha15.dll
